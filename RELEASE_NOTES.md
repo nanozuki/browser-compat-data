@@ -1,5 +1,51 @@
 # @mdn/browser-compat-data release notes
 
+## [v6.0.13](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.13)
+
+May 8, 2025
+
+### Additions
+
+- `webextensions.api.tabGroups` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.Color` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.get` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.move` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.move.moveProperties` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.move.moveProperties.index` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.move.moveProperties.windowId` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.onCreated` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.onMoved` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.onRemoved` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.onUpdated` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query.queryInfo` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query.queryInfo.collapsed` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query.queryInfo.color` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query.queryInfo.title` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.query.queryInfo.windowId` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TAB_GROUP_ID_NONEs` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.collapsed` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.color` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.id` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.shared` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.title` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.TabGroup.windowId` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.update` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.update.updateProperties` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.update.updateProperties.collapsed` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.update.updateProperties.color` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.api.tabGroups.update.updateProperties.title` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.manifest.optional_permissions.tabGroups` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+- `webextensions.manifest.permissions.tabGroups` ([#26724](https://github.com/mdn/browser-compat-data/pull/26724))
+
+### Statistics
+
+- 7 contributors have changed 10 files with 698 additions and 27 deletions in 10 commits ([`v6.0.12...v6.0.13`](https://github.com/mdn/browser-compat-data/compare/v6.0.12...v6.0.13))
+- 17,080 total features
+- 1,147 total contributors
+- 5,231 total stargazers
+
 ## [v6.0.12](https://github.com/mdn/browser-compat-data/releases/tag/v6.0.12)
 
 May 6, 2025
